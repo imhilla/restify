@@ -1,0 +1,23 @@
+{
+  "name": "restifyguides",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imhilla/restify.git"
+  },
+  "keywords": [],
+  "author": "Hillary Kiptoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imhilla/restify/issues"
+  },
+  "homepage": "https://github.com/imhilla/restify#readme",
+  "dependencies": {
+    "restify": "^8.6.1"
+  }
+}
